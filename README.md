@@ -13,7 +13,7 @@ A simple ATM Transaction Simulator developed using C programming. It allows user
 
 ## Technologies Used
 - C Programming
-- GCC Compiler
+- VScode
 
 ## Concepts Used
 - Variables and data types
@@ -35,4 +35,4 @@ Execute:
 ```
 
 ## Project Level
-Beginner-level C programming project.
+Beginner-to-Intermediate level project.
